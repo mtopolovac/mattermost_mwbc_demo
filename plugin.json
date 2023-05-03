@@ -1,0 +1,7 @@
+{
+  "id": "com.mattermost.message-will-be-consumed-demo",
+  "name": "MessageWillBeConsumedDemo",
+  "server": {
+    "executable": "plugin.exe"
+  }
+}
